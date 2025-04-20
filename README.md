@@ -24,4 +24,4 @@ cd Titanic-Prediction
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
 ```
-4. **Run the Python Script**
+4. **Run the main.ipynb file**
