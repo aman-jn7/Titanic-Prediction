@@ -15,12 +15,15 @@ This project predicts passenger survival on the Titanic using Logistic Regressio
 1. **Clone the Repository**
 ```bash
 git clone https://github.com/aman-jn7/Titanic-Prediction.git
+```
+2. **Naviagte to the folder**
+```bash
 cd Titanic-Prediction
 ```
-2. **Install Required Libraries Make sure the following Python libraries are installed:**
+3. **Install Required Libraries Make sure the following Python libraries are installed:**
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
 ```
-3. **Run the Python Script**
+4. **Run the Python Script**
 ```bash
 python main.py
