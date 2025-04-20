@@ -16,7 +16,9 @@ This project predicts passenger survival on the Titanic using Logistic Regressio
 ```bash
 git clone https://github.com/aman-jn7/Titanic-Prediction.git
 cd Titanic-Prediction
-
+```
+```bash
 pip install pandas matplotlib seaborn scikit-learn
-
+```
+```bash
 python main.py
